@@ -8,4 +8,4 @@ SCOPE:
 
 
 
-1. Create a new page with a handle of /compare
+1. Create a new page and add files there
